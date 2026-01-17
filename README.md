@@ -11,6 +11,7 @@ The Pomodoro technique is a time management method in which you do focused work 
 - Happens once we reached a total of 4 checkmarks
 - Lasts 20 minutes
 
+### Other notes
 - Timer does not stop on its own
 - It can get reach an unlimited amount of checkmarks
 - User can restart timer
